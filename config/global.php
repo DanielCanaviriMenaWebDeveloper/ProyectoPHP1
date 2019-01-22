@@ -1,19 +1,19 @@
 <?php
-//Ip de la pc servidor de base de datos 
-define("DB_HOST","localhost"); //1er Parametro Nombre de la constante, 2do Parametro Valor de la constante
+    //Ip de la pc servidor de base de datos 
+    define("DB_HOST","localhost"); //1er Parametro Nombre de la constante, 2do Parametro Valor de la constante
 
-//Nombre de la base de datos 
-define("DB_NAME","dbsistema");
+    //Nombre de la base de datos 
+    define("DB_NAME","dbsistema");
 
-//Usuario de la base de datos
-define("DB_USERNAME","root");
+    //Usuario de la base de datos
+    define("DB_USERNAME","root");
 
-//Contraseña del usuario de la base de datos 
-define("DB_PASSWORD","");
+    //Contraseña del usuario de la base de datos 
+    define("DB_PASSWORD","");
 
-//Definimos la codificación de los caracteres
-define("DB_ENCODE","utf8");
+    //Definimos la codificación de los caracteres
+    define("DB_ENCODE","utf8");
 
-//Definimos una constante como nombre del proyecto
-define("PRO_NOMBRE","ITVentas");
+    //Definimos una constante como nombre del proyecto
+    define("PRO_NOMBRE","ITVentas");
 ?>
